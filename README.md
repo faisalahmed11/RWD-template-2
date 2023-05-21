@@ -1,4 +1,4 @@
-# Responsive Website design template-2 practice-1.
+# Responsive Arhitect Site 
 
 ## Table of contents
 
