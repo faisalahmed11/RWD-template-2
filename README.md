@@ -30,7 +30,7 @@ Responsive website with hero animating image, header footer and three sections.
 
 ### Links
 
-- Live Site URL: [https://RWD-template-2.vercel.app/](https://RWD-template-2.vercel.app/)
+- Live Site URL: [https://responsive-arhitect-site.vercel.app/](https://responsive-arhitect-site.vercel.app/)
 
 ### my-process
 
